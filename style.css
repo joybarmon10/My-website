@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  color: black;
+}
+span {
+  color: orange;
+}
+.hife {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding: 2%;
+}
+.hife img {
+  width: 100%;
+}
+.top-banner {
+  background-image: url("image/IMG_20220721_162140.jpg");
+  background-repeat: no-repeat;
+}
+section {
+  height: 500px;
+  padding-bottom: 150px;
+}
+.col {
+  color: #000;
+}
+.link-button {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-image: linear-gradient(45deg, #ff7f50, #ff4500);
+  color: white;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.big {
+  font-size: 35px;
+}
+p {
+  color: dimgray;
+}
+.dream-area {
+  background-image: url("image/IMG_20220721_181225.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.orange {
+  color: orange;
+}
+.singel-man {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+  height: 50%;
+}
+
+.experience-dev {
+  background-image: url("image/1658411759188.jpg");
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#full {
+  border-left: 7px solid;
+  border-image: linear-gradient(lightsalmon, tomato);
+  border-image-slice: 1;
+}
+#full2 {
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+footer {
+  text-align: center;
+  font-size: 12px;
+}
